@@ -1,4 +1,4 @@
-# Nuxt 3 Minimal Starter
+# Nuxt 연습 프로젝트 차후에 todolist로 기능추가
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
